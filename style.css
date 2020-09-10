@@ -41,6 +41,8 @@ p {
     width: 20rem;
   }
   #btn {
+    width: 8rem;
     padding: 0.6rem;
+    font-size: 1rem;
   }
 }
