@@ -40,4 +40,7 @@ p {
     margin: 10rem auto;
     width: 20rem;
   }
+  #btn {
+    padding: 0.6rem;
+  }
 }
